@@ -1,0 +1,8 @@
+body { font-family: Arial, Helvetica, sans-serif; margin: 20px; }
+.container { max-width: 900px; margin: 0 auto; }
+.form { margin-bottom: 16px; }
+.form input { padding: 8px; margin-right: 8px; }
+.form button { padding: 8px 12px; }
+table { width: 100%; border-collapse: collapse; }
+th, td { border: 1px solid #ddd; padding: 8px; }
+th { background: #f4f4f4; text-align: left; }
